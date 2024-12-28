@@ -1,0 +1,38 @@
+{
+  "stats": {
+    "totalUsers": 15423,
+    "activeUsers": 8756,
+    "dailyNewUsers": 142,
+    "revenue": 45678
+  },
+  "recentActivity": [
+    {
+      "id": 1,
+      "type": "signup",
+      "user": "john@example.com",
+      "timestamp": "2024-12-27T10:30:00Z"
+    },
+    {
+      "id": 2,
+      "type": "purchase",
+      "user": "sarah@example.com",
+      "amount": 299,
+      "timestamp": "2024-12-27T10:15:00Z"
+    },
+    {
+      "id": 3,
+      "type": "login",
+      "user": "mike@example.com",
+      "timestamp": "2024-12-27T10:00:00Z"
+    }
+  ],
+  "userGrowth": [
+    { "date": "2024-12-20", "users": 15000 },
+    { "date": "2024-12-21", "users": 15120 },
+    { "date": "2024-12-22", "users": 15200 },
+    { "date": "2024-12-23", "users": 15280 },
+    { "date": "2024-12-24", "users": 15350 },
+    { "date": "2024-12-25", "users": 15390 },
+    { "date": "2024-12-26", "users": 15423 }
+  ]
+}
